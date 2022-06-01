@@ -17,7 +17,7 @@ class MathStuff {
     return x + y
   }
   
-  func multipleNums(x: Int, y: Int) -> Int {
+  func multiplyNums(x: Int, y: Int) -> Int {
     return x * y
   }
   
